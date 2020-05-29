@@ -1,0 +1,22 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "test",
+    "scripts": {
+        "test": "test",
+        "scss": "node-sass --watch sass -o css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "test"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "test",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "node-sass": "^4.14.1"
+    }
+}
